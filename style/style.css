@@ -11,7 +11,9 @@ h2 {
 }
 
 #main-navbar{
-	background-color: #000;
+	background-color: #0C74F3;
+	font-size: 25px;
+	font-weight: bold;
 	position: relative;
 	text-align: center;
 	width: 100%;
@@ -38,7 +40,7 @@ h2 {
 }
 
 #navbar-container ul li a{
-	color: #fff;
+	color: #f38b0c;
 	display: block;
 	padding: 10px 20px;
 	text-decoration: none;
