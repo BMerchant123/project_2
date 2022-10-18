@@ -95,6 +95,9 @@ ul {
 	font-size: 18px;
 }
 
+.pokemon ul li {
+	font-size: 18px
+}
 
 .pokemon ul li li{
 	color: #f0f0f0;
@@ -125,12 +128,16 @@ ul {
 	font-size: 20px;
 }
 
+.chess ul li {
+	font-size: 18px
+}
+
 .chess ul li li {
 	color: #769656;
-	font-size: 18px
+	font-size: 16px
 }
 
 .chess ul li li li {
 	color: #eeeed2;
-	font-size: 16px
+	font-size: 15px
 }
