@@ -84,10 +84,6 @@ h2 {
 	background-image: url("../media/pokeball.png");
 }
 
-#pokemon-sub-li {
-	color: #f0f0f0;
-}
-
 #h2-pokemon {
 	color: #d3d3d3;
 	font-size: 30px;
@@ -100,6 +96,12 @@ h2 {
 
 #section-li-pokemon {
 	color: #222224;
+	font-size: 18px
+}
+
+#pokemon-sub-li {
+	color: #f0f0f0;
+	font-size: 16px
 }
 
 .chess {
@@ -108,20 +110,25 @@ h2 {
 
 #chess-p {
 	color: #eeeed2;
+	font-size: 18px;
 }
 
 #chess-h1 {
 	color: #769656;
+	font-size: 30px;
 }
 
 #chess-h3 {
 	color: #769656;
+	font-size: 20px;
 }
 
 #sub-li-chess {
 	color: #769656;
+	font-size: 18px
 }
 
 #secondary-sub-li-chess {
 	color: #eeeed2;
+	font-size: 16px
 }
