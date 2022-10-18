@@ -14,6 +14,18 @@ ul {
 	list-style-type: none;
 }
 
+ul li {
+	font-size: 18px;
+}
+
+ul li li {
+	font-size: 16px
+}
+
+ul li li li {
+	font-size: 15px
+}
+
 #main-navbar{
 	background-color: #0C74F3;
 	font-size: 25px;
@@ -73,12 +85,10 @@ ul {
 
 .resume ul li {
 	color: #000;
-	font-size: 18px;
 }
 
 .resume ul li li {
 	color: #33DBFF;
-	font-size: 16px;
 }
 
 .pokemon {
@@ -95,18 +105,12 @@ ul {
 	font-size: 18px;
 }
 
-.pokemon ul li {
-	font-size: 18px
-}
-
 .pokemon ul li li{
 	color: #f0f0f0;
-	font-size: 16px
 }
 
 .pokemon ul li li li {
 	color: #222224;
-	font-size: 15px
 }
 
 .chess {
@@ -128,16 +132,10 @@ ul {
 	font-size: 20px;
 }
 
-.chess ul li {
-	font-size: 18px
-}
-
 .chess ul li li {
 	color: #769656;
-	font-size: 16px
 }
 
 .chess ul li li li {
 	color: #eeeed2;
-	font-size: 15px
 }
