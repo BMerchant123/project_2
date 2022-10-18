@@ -10,6 +10,10 @@ h2 {
 	text-align: center;
 }
 
+ul {
+	list-style-type: none;
+}
+
 #main-navbar{
 	background-color: #0C74F3;
 	font-size: 25px;
@@ -51,31 +55,28 @@ h2 {
 	background-color: #fff;
 }
 
-#resume-h3 {
+.resume h3 {
 	color: #DD1717;
 	font-size: 20px;
 }
 
-#resume-h1 {
+.resume h1 {
 	color: #50C878;
 	font-size: 30px;
 }
 
-#resume-p {
+.resume p {
 	color: #ffb433;
 	font-size: 18px;
 }
 
 
-#main-li {
-	list-style-type: none;
-	margin: 0;
-    padding: 0;
+.resume ul li {
 	color: #000;
 	font-size: 18px;
 }
 
-#sub-li {
+.resume ul li li {
 	color: #33DBFF;
 	font-size: 16px;
 }
@@ -84,51 +85,52 @@ h2 {
 	background-image: url("../media/pokeball.png");
 }
 
-#h2-pokemon {
+.pokemon h2 {
 	color: #d3d3d3;
 	font-size: 30px;
 }
 
-#p-pokemon {
+.pokemon p{
 	color: #d3d3d3;
 	font-size: 18px;
 }
 
-#section-li-pokemon {
-	color: #222224;
-	font-size: 18px
-}
 
-#pokemon-sub-li {
+.pokemon ul li li{
 	color: #f0f0f0;
 	font-size: 16px
+}
+
+.pokemon ul li li li {
+	color: #222224;
+	font-size: 18px
 }
 
 .chess {
 	background-image: url("../media/pawn.png");
 }
 
-#chess-p {
+.chess p {
 	color: #eeeed2;
 	font-size: 18px;
 }
 
-#chess-h1 {
+.chess h1 {
 	color: #769656;
 	font-size: 30px;
 }
 
-#chess-h3 {
+.chess h3 {
 	color: #769656;
 	font-size: 20px;
 }
 
-#sub-li-chess {
+.chess ul li li {
 	color: #769656;
 	font-size: 18px
 }
 
-#secondary-sub-li-chess {
+.chess ul li li li {
 	color: #eeeed2;
 	font-size: 16px
 }
