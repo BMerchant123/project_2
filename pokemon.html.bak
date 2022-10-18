@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Pokemon</title>
+  <link href="style/style.css" rel="stylesheet">
+</head>
+<body class="pokemon">
+  <section>
+    <nav id="main-navbar">
+	  <div id="navbar-container">
+        <ul>
+          <li><a href="index.html" title="Resume">Resume</a></li>
+          <li><a href="chess.html" title="Chess">Chess</a></li>
+          <li><a href="pokemon.html" title="Pokemon">Pokemon</a></li>
+        </ul>
+	  </div>
+	</nav>
+  </section>
+
+  <section>
+    <h2 id="h2-pokemon"><strong>Pokemon</strong></h2>
+    <p id="p-pokemon">One of my favorite video game series is Pokemon.</p>
+    <ul>
+    <li id="main-li"><strong>Favorite Versions:</strong></li>
+      <li>
+        <ul>
+          <li id="pokemon-sub-li">Crystal</li>
+          <li id="pokemon-sub-li">Emerald</li>
+          <li id="pokemon-sub-li">Fire Red</li>
+          <li id="pokemon-sub-li">Platnum</li>
+          <li id="pokemon-sub-li">Soul Silver</li>
+        </ul>
+      </li>
+      <li id="main-li"><strong>Challenges:</strong></li>
+      <li>  
+        <ul>
+          <li>Hardcore Nuzlockes</li>
+          <li>
+            <ul>
+              <li id="pokemon-sub-li">Hardcore Nuzlockes are a normal playthrough of a pokemon game except with the following self-imposed rules:</li>
+              <li id="pokemon-sub-li">You can only catch one pokemon per location such as a route, city, or cave</li>
+              <li id="pokemon-sub-li">You can only catch one pokemon per evolution line</li>
+              <li id="pokemon-sub-li">You are not allowed to level up your pokemon over the highest level pokemon that the upcoming gym leader has</li>
+              <li id="pokemon-sub-li">The game must be set to "set" mode</li>
+              <li id="pokemon-sub-li">You are not allowed to use items in battle except for pokeballs and held items</li>
+              <li id="pokemon-sub-li">If a pokemon faints, it is considered dead and cannot be used for the remainder of the run</li>
+              <li id="pokemon-sub-li">If you white-out in a battle, the run is considered a lost and you have to reset the game completely</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li id="main-li"><strong>Kaizo Ironmon</strong></li>
+      <li>
+        <ul>
+          <li id="pokemon-sub-li">A kaizo ironmon is a much harder version of a hardcore nuzlocke as it contains the following rules</li>
+          <li id="pokemon-sub-li">You can only catch one pokemon per location such as a route, city, or cave</li>
+          <li>
+	        <ul>
+              <li id="pokemon-sub-li">If you choose to catch the pokemon you must commit to that pokemon</li>
+              <li id="pokemon-sub-li">This means you can't use your previously caught pokemon, just that one pokemon</li>
+            </ul id="pokemon-sub-li">
+	       </li>
+          <li id="pokemon-sub-li">You are only allowed one pokemon in your party</li>
+          <li>
+	        <ul>
+              <li>The only exception to this rule is if the other pokemon in your party are used for HM moves, used to progress through the story</li>
+              <li>These pokemon cannot be used in battle</li>
+            </ul>
+	      </li>
+          <li id="pokemon-sub-li">Once you enter a location, you may not leave that location until you beat all the trainers in that location</li>
+          <li id="pokemon-sub-li">You can't return to that location unless the in game story requires you to</li>
+          <li id="pokemon-sub-li">The following must be randomized</li>
+          <li id="pokemon-sub-li">
+            <ul>
+              <li>Pokemon Base Stats</li>
+              <li>Pokemon Move learnsets</li>
+              <li>Pokemon Encounter Locations</li>
+              <li>Starter Pokemon</li>
+              <li>Opponent's Pokemon</li>
+              <li>Items</li>
+            </ul>
+          </li>
+          <li id="pokemon-sub-li">You must select your starter pokemon randomly</li>
+          <li id="pokemon-sub-li">You can't use any pokemon with a total base stat greater than 599</li>
+          <li id="pokemon-sub-li">You can't heal outside of battle other than the use of pokemon centers</li>
+          <li id="pokemon-sub-li">You can't use in-game shops unless you are buying pokeballs or repels</li>
+          <li id="pokemon-sub-li">Game is set to set mode</li>
+        </ul>
+      </li>
+      <li id="main-li"><strong>Favorite Pokemon</strong></li>
+      <li><img src="media/favorite_pokemon.JPG" alt="Favorite Pokemon"></li>
+      <li id="main-li"><strong>Personal favorite remixed music from the pokemon series</strong></li>
+      <li>
+        <ul>
+          <li>Pokémon RSE - Elite Four Battle</li>
+          <li>Original version composed by Junichi Masuda, Go Ichinose, and Morikazu Aoki</li>
+          <li>Remixed by Dr.Pez</li>
+          <li>
+            <audio controls>
+              <source src="media/Elite_Four_Battle_(Pokemon_RSE).mp3" type="audio/mpeg">
+            </audio>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </section>
+	
+</body>
+</html>

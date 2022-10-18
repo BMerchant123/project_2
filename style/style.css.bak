@@ -1,0 +1,113 @@
+body {
+	font-family: Trebuchet MS, sans-serif;
+}
+
+#main-navbar{
+	background-color: #000;
+	position: relative;
+	text-align: center;
+	width: 100%;
+}
+
+#navbar-container{
+	position: relative;
+}
+
+#navbar-container ul{
+	display: inline-block;
+	list-style-type: none;
+	margin: 0;
+	overflow: hidden;
+	padding: 0;
+	position: relative;
+}
+
+#navbar-container ul li{
+	display: block;
+	float: left;
+	left: 50%;
+	right: 50%
+}
+
+#navbar-container ul li a{
+	color: #fff;
+	display: block;
+	padding: 10px 20px;
+	text-decoration: none;
+}
+
+.resume {
+	background-image: url("../media/shapes1.png");
+	background-color: #fff;
+}
+
+#resume-h3 {
+	color: #DD1717;
+	font-size: 20px;
+}
+
+#resume-h1 {
+	color: #50C878;
+	font-size: 30px;
+}
+
+#resume-p {
+	color: #ffb433;
+	font-size: 18px;
+}
+
+
+#main-li {
+	list-style-type: none;
+	margin: 0;
+    padding: 0;
+	color: #000;
+	font-size: 18px;
+}
+
+#sub-li {
+	color: #33DBFF;
+	font-size: 16px;
+}
+
+.pokemon {
+	background-image: url("../media/pokeball.png");
+}
+
+#pokemon-sub-li {
+	color: #f0f0f0;
+}
+
+#h2-pokemon {
+	color: #d3d3d3;
+	font-size: 30px;
+}
+
+#p-pokemon {
+	color: #d3d3d3;
+	font-size: 18px;
+}
+
+#section-li-pokemon {
+	color: #222224;
+}
+
+.chess {
+	background-image: url("../media/pawn.png");
+}
+
+#chess-p {
+	color: #eeeed2;
+}
+
+#chess-h1 {
+	color: #769656;
+}
+
+#chess-h3 {
+	color: #769656;
+}
+
+.chess > ul > li > ul > li {
+	color: #769656;
+}
