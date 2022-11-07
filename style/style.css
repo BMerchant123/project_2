@@ -133,15 +133,10 @@ ul li li li{
 }
 
 .chess ul li li{
-	float: right;
 	color: #769656;
 }
 
 .chess ul li li li{
 	color: #eeeed2;
-	float: right;
 }
 
-.chess img{
-	float: right;
-}
