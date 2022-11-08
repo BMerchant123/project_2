@@ -1,7 +1,6 @@
 body{
 	font-family: Trebuchet MS, sans-serif;
 }
-
 h1{
 	text-align: center;
 }
@@ -19,11 +18,11 @@ ul li{
 }
 
 ul li li{
-	font-size: 16px;
+	font-size: 16px
 }
 
 ul li li li{
-	font-size: 15px;
+	font-size: 15px
 }
 
 #main-navbar{
@@ -70,7 +69,6 @@ ul li li li{
 .resume h3{
 	color: #DD1717;
 	font-size: 20px;
-	float: left;
 }
 
 .resume h1{
@@ -82,7 +80,6 @@ ul li li li{
 	color: #ffb433;
 	font-size: 18px;
 }
-
 
 .resume ul li{
 	color: #000;
@@ -113,31 +110,3 @@ ul li li li{
 .pokemon ul li li li{
 	color: #222224;
 }
-
-.chess{
-	background-image: url("../media/pawn.png");
-}
-
-.chess p{
-	color: #eeeed2;
-	font-size: 18px;
-}
-
-.chess h1{
-	color: #769656;
-	font-size: 30px;
-}
-
-.chess h3{
-	color: #769656;
-	font-size: 20px;
-}
-
-.chess ul li li{
-	color: #769656;
-}
-
-.chess ul li li li{
-	color: #eeeed2;
-}
-
