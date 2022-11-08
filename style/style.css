@@ -87,7 +87,8 @@ ul li li li{
 
 .resume ul li{
 	color: #000;
-	position: static;
+	position: relative;
+	left:
 }
 
 .resume ul li li{
