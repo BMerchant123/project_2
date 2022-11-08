@@ -30,13 +30,13 @@ ul li li li{
 	background-color: #0C74F3;
 	font-size: 25px;
 	font-weight: bold;
-	position: relative;
+	position: fixed;
 	text-align: center;
 	width: 100%;
 }
 
 #navbar-container{
-	position: relative;
+	position: fixed;
 }
 
 #navbar-container ul{
@@ -45,7 +45,7 @@ ul li li li{
 	margin: 0;
 	overflow: hidden;
 	padding: 0;
-	position: relative;
+	position: fixed;
 }
 
 #navbar-container ul li{
@@ -81,18 +81,18 @@ ul li li li{
 .resume p{
 	color: #ffb433;
 	font-size: 18px;
-	float: left;
+	position: relative;
 }
 
 
 .resume ul li{
 	color: #000;
-	float: left;
+	position: relative;
 }
 
 .resume ul li li{
 	color: #33DBFF;
-	float: left;
+	position: relative;
 }
 
 .pokemon{
