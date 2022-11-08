@@ -70,7 +70,7 @@ ul li li li{
 	color: #DD1717;
 	font-size: 20px;
 	position: relative;
-	left: 5%;
+	right: 5%;
 }
 
 .resume h1{
@@ -83,19 +83,19 @@ ul li li li{
 	color: #ffb433;
 	font-size: 18px;
 	position: relative;
-	left: 5%;
+	right: 5%;
 }
 
 .resume ul li{
 	color: #000;
 	position: relative;
-	left: 5%;
+	right: 5%;
 }
 
 .resume ul li li{
 	color: #33DBFF;
 	position: relative;
-	left: 10%;
+	right: 10%;
 }
 
 .pokemon{
