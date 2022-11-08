@@ -19,24 +19,24 @@ ul li{
 }
 
 ul li li{
-	font-size: 16px
+	font-size: 16px;
 }
 
 ul li li li{
-	font-size: 15px
+	font-size: 15px;
 }
 
 #main-navbar{
 	background-color: #0C74F3;
 	font-size: 25px;
 	font-weight: bold;
-	position: fixed;
+	position: relative;
 	text-align: center;
 	width: 100%;
 }
 
 #navbar-container{
-	position: fixed;
+	position: relative;
 }
 
 #navbar-container ul{
@@ -45,7 +45,7 @@ ul li li li{
 	margin: 0;
 	overflow: hidden;
 	padding: 0;
-	position: fixed;
+	position: relative;
 }
 
 #navbar-container ul li{
