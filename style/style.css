@@ -6,8 +6,10 @@ h1{
 	text-align: center;
 }
 
-h2{
-	text-align: center;
+
+h3{
+	position: relative;
+	left: 1%;
 }
 
 ul{
@@ -16,14 +18,25 @@ ul{
 
 ul li{
 	font-size: 18px;
+	position: relative;
+	left: 1%;
 }
 
 ul li li{
 	font-size: 16px;
+	position: relative;
+	left: 1.5%;
 }
 
 ul li li li{
 	font-size: 15px;
+	position: relative;
+	left: 2%;
+}
+
+p{
+	position: relative;
+	left: 1%;
 }
 
 #main-navbar{
@@ -53,6 +66,7 @@ ul li li li{
 	float: left;
 	left: 50%;
 	right: 50%;
+	position: relative;
 	left: -1%;
 }
 	
@@ -103,7 +117,7 @@ ul li li li{
 	background-image: url("../media/pokeball.png");
 }
 
-.pokemon h2{
+.pokemon h1{
 	color: #d3d3d3;
 	font-size: 30px;
 }
