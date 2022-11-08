@@ -81,18 +81,18 @@ ul li li li{
 .resume p{
 	color: #ffb433;
 	font-size: 18px;
-	position: relative;
+	position: static;
 }
 
 
 .resume ul li{
 	color: #000;
-	position: relative;
+	position: static;
 }
 
 .resume ul li li{
 	color: #33DBFF;
-	position: relative;
+	position: static;
 }
 
 .pokemon{
