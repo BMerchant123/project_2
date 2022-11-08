@@ -29,13 +29,13 @@ ul li li li{
 	background-color: #0C74F3;
 	font-size: 25px;
 	font-weight: bold;
-	position: relative;
+	position: static;
 	text-align: center;
 	width: 100%;
 }
 
 #navbar-container{
-	position: relative;
+	position: static;
 }
 
 #navbar-container ul{
@@ -44,7 +44,7 @@ ul li li li{
 	margin: 0;
 	overflow: hidden;
 	padding: 0;
-	position: relative;
+	position: static;
 }
 
 #navbar-container ul li{
@@ -70,7 +70,7 @@ ul li li li{
 	color: #DD1717;
 	font-size: 20px;
 	position: relative;
-	right: 5%;
+	right: 1%;
 }
 
 .resume h1{
@@ -83,19 +83,19 @@ ul li li li{
 	color: #ffb433;
 	font-size: 18px;
 	position: relative;
-	right: 5%;
+	right: 1%;
 }
 
 .resume ul li{
 	color: #000;
 	position: relative;
-	right: 5%;
+	right: 1%;
 }
 
 .resume ul li li{
 	color: #33DBFF;
 	position: relative;
-	right: 10%;
+	right: 2%;
 }
 
 .pokemon{
@@ -118,4 +118,27 @@ ul li li li{
 
 .pokemon ul li li li{
 	color: #222224;
+}
+
+.chess{
+	background-image: url("../media/pawn.png");
+}
+
+.chess p{
+	color: #eeeed2;
+	font-size: 18px;
+}
+.chess h1{
+	color: #769656;
+	font-size: 30px;
+}
+.chess h3{
+	color: #769656;
+	font-size: 20px;
+}
+.chess ul li li{
+	color: #769656;
+}
+.chess ul li li li{
+	color: #eeeed2;
 }
