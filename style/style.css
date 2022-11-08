@@ -34,11 +34,11 @@ ul li li li{
 	text-align: center;
 	width: 100%;
 }
-
+	
 #navbar-container{
 	position: relative;
 }
-
+	
 #navbar-container ul{
 	display: inline-block;
 	list-style-type: none;
@@ -47,14 +47,14 @@ ul li li li{
 	padding: 0;
 	position: relative;
 }
-
+	
 #navbar-container ul li{
 	display: block;
 	float: left;
 	left: 50%;
 	right: 50%
 }
-
+	
 #navbar-container ul li a{
 	color: #f38b0c;
 	display: block;
@@ -98,12 +98,12 @@ ul li li li{
 	color: #d3d3d3;
 	font-size: 30px;
 }
-
+	
 .pokemon p{
 	color: #d3d3d3;
 	font-size: 18px;
 }
-
+	
 .pokemon ul li li{
 	color: #f0f0f0;
 }
