@@ -1,6 +1,7 @@
 body{
 	font-family: Trebuchet MS, sans-serif;
 }
+
 h1{
 	text-align: center;
 }
@@ -18,24 +19,24 @@ ul li{
 }
 
 ul li li{
-	font-size: 16px;
+	font-size: 16px
 }
 
 ul li li li{
-	font-size: 15px;
+	font-size: 15px
 }
 
 #main-navbar{
 	background-color: #0C74F3;
 	font-size: 25px;
 	font-weight: bold;
-	position: static;
+	position: fixed;
 	text-align: center;
 	width: 100%;
 }
 
 #navbar-container{
-	position: static;
+	position: fixed;
 }
 
 #navbar-container ul{
@@ -44,14 +45,14 @@ ul li li li{
 	margin: 0;
 	overflow: hidden;
 	padding: 0;
-	position: static;
+	position: fixed;
 }
 
 #navbar-container ul li{
 	display: block;
 	float: left;
 	left: 50%;
-	right: 50%;
+	right: 50%
 }
 
 #navbar-container ul li a{
@@ -69,33 +70,29 @@ ul li li li{
 .resume h3{
 	color: #DD1717;
 	font-size: 20px;
-	position: relative;
-	right: 1%;
+	float: left;
 }
 
 .resume h1{
 	color: #50C878;
 	font-size: 30px;
-	position: static;
 }
 
 .resume p{
 	color: #ffb433;
 	font-size: 18px;
-	position: relative;
-	right: 1%;
+	position: static;
 }
+
 
 .resume ul li{
 	color: #000;
-	position: relative;
-	right: 1%;
+	position: static;
 }
 
 .resume ul li li{
 	color: #33DBFF;
-	position: relative;
-	right: 2%;
+	position: static;
 }
 
 .pokemon{
@@ -146,4 +143,3 @@ ul li li li{
 .chess ul li li li{
 	color: #eeeed2;
 }
-
